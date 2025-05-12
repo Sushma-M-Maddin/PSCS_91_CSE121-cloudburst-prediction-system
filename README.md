@@ -31,7 +31,8 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/cloudburst-prediction-system.git
+git clone https://github.com/Sushma-M-Maddin/PSCS_91_CSE121-cloudburst-prediction-system
+
 cd cloudburst-prediction-system
 Install dependencies
 
